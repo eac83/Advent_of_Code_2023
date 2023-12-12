@@ -1,0 +1,1 @@
+My solutions for Advent of Code 2023. Note that I began on 10/12/2023, and due to life commitments I may not complete a day in one sitting or even before starting the next one, but I will finish a day before finishing the next. All my solutions will be written in Python.
